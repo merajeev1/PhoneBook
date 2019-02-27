@@ -1,2 +1,2 @@
 # PhoneBook
-A simple Phone Book
+A simple Phone Book implemented using JavaScript, HTML and Bootstrap
